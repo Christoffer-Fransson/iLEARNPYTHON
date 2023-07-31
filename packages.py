@@ -8,3 +8,18 @@
 
 # console: pip freeze # - Prints a list of installed packages in the terminal (can be run inside the virtual environment to see what it has installed
                 # but also OUTSIDE of the virtual environment to see what libraries is installed on the computer)
+
+
+
+# other ways of installing packages
+    # have a set of files on your machine and install from that source (local install)
+    # console: cd <to where the package is on your machine>
+    # console: python3 -m pip install. 
+
+    # install from a GitHub repository that provides version control:
+    # console: git+https://github.com/your-repo.git
+    
+    # install from a compressed archive file:
+    # python3 -m pip install package.tar.gz
+    
+    
