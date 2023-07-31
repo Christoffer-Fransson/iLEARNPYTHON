@@ -4,7 +4,7 @@
 
 # example:
 # Console: (do this from the /env directory)
-pip install python-dateutil
+# console: pip install python-dateutil
 
-pip freeze # - Prints a list of installed packages in the terminal (can be run inside the virtual environment to see what it has installed
+# console: pip freeze # - Prints a list of installed packages in the terminal (can be run inside the virtual environment to see what it has installed
                 # but also OUTSIDE of the virtual environment to see what libraries is installed on the computer)
