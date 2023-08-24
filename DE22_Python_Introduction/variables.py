@@ -1,4 +1,4 @@
-# SOURCE: https://www.youtube.com/watch?v=LKFrQXaoSMQ           (13:30 MIN)
+# SOURCE: https://www.youtube.com/watch?v=LKFrQXaoSMQ              (13:30 MIN)
 # variable =    a reusable container for storing a value
 #               a variable behaves as if it were the value it contains
 
