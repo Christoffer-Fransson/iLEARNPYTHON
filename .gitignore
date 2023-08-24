@@ -1,0 +1,5 @@
+# ignore files/folders as specified
+
+MicrosoftLearn/PythonForBeginners/env
+
+PYTHON_APP_DEV/Powerpoint_Export/env
